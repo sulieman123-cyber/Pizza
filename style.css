@@ -77,7 +77,7 @@
     font-size: 3em;
 }
 .banner .content .model {
-    background-image: url(pizzaslice.jpg); /* Add your image here */
+    background-image: url(); /* Add your image here */
     width: 100vw; /* Full viewport width */
     height: 100vh; /* Full viewport height */
     position: absolute;
@@ -133,3 +133,7 @@
         font-size: 5em;
     }
 }
+body {
+    background-color: #FFDAB9; /* Light orange (Peach Puff) */
+}
+
